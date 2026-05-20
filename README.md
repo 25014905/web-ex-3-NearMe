@@ -262,7 +262,8 @@ which is approximately 7km away.
 ```
 
 ## OUTPUT
-<img width="1665" height="823" alt="1" src="https://github.com/user-attachments/assets/2f01ba0c-f645-48ce-91d1-788c0bf24af6" />
+<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/1cfba81d-b78c-412f-9947-92fd1fbd8999" />
+
 
 <img width="1918" height="996" alt="2" src="https://github.com/user-attachments/assets/7ac4c137-7cde-41fc-99b9-cb334a3ceaf0" />
 
