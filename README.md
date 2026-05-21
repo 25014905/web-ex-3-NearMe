@@ -42,7 +42,7 @@ map.html
 </h1>
 
 <h3 align="center">
-<font color="blue"><b>Bakkiyalakshmi E (23016303)</b></font>
+<font color="blue"><b>MIRDULA D (25014905)</b></font>
 </h3>
 
 <center>
